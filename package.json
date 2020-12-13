@@ -1,0 +1,38 @@
+{
+  "name": "bigjara-otp",
+  "author" : "Bigjara" , 
+  "version": "1.0.0", 
+  "description": "One Time Password generator designed for improved security , easily customizable, and simple to understand",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name" : "Adeleke Bright" , 
+      "email": "adenababanla@gmail.com" , 
+      "url": "https://twitter.com/adelekebright6"
+    }
+  ],
+  "scripts": {
+    "start" : "node index.js" , 
+    "devstart" : "nodemon index.js" , 
+    "test": "mocha" , 
+    "cypress:open" : "cypress open" , 
+    "publish" : "npm publish"
+  },
+  "devDependencies": {
+    "chai" : "4.2.0" , 
+    "mocha" : "8.2.1" , 
+    "cypress" : "6.1.0" , 
+    "nodemon" : "2.0.6"
+  },
+  "engines": {
+    "node": ">=12.0"
+  },
+  "homepage": "https://github.com/bigjara/bigjara-otp#readme",
+  "license": "MIT",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigjara/bigjara-otp.git"
+  },
+  "keywords": ["One Time Password"  , "otp" , "Cryptography" , "Pseudorandom number generation"  , "Open Source development"]
+}
