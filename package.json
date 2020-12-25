@@ -1,7 +1,7 @@
 {
   "name": "bigjara-otp",
   "author" : "Bigjara" , 
-  "version": "1.0.2", 
+  "version": "1.0.0", 
   "description": "One Time Password generator designed for improved security , easily customizable, and simple to understand",
   "main": "index.js",
   "contributors": [
