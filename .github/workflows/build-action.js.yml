@@ -16,6 +16,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1 
-    - run : npm ci 
-    - run : npm test 
-    - run : npm publish 
+    - run : npm install
+    - run : npm test
