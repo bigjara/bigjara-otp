@@ -1,4 +1,4 @@
-#Bigjara OTP
+# Bigjara OTP
 One Time Password  generator 
 ## Overview 
 This project provides an easy interface to generating numeric One Time Password of any length. It is simple and straight forward to use.
