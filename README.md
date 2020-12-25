@@ -16,8 +16,9 @@ let otp = OTP.generateOTP(6)
 ## License 
 MIT 
 ## Credits
-(Adeleke Bright)[https://github.com/adeisbright] 
+<a href="https://github.com/adeisbright" target=_blank>Adeleke Bright</a>
+
 ## Contributing 
-See (contributing.md)[https://github.com/bigjara/bigjara-otp/contributing.md] 
+See [https://github.com/bigjara/bigjara-otp/contributing.md] 
 
 
