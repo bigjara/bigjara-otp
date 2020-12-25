@@ -8,7 +8,7 @@ class OTP {
         try {
             if (Object.is("number"  , typeof length)){
                 let OTP = ""
-                for(let i = 0 ; i <= length ; i++){
+                for(let i = 0 ; i < length ; i++){
                     OTP += this.numbers[Math.floor(Math.random()*10)]
                 } 
                 return Number(OTP)
