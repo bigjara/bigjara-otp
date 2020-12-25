@@ -12,7 +12,7 @@ describe("Test suite for otp" , () => {
     }) 
 
     describe("Test the otp" , () => {
-        it("should return the otp in 5 characters" , () => {
+        it("should return the OTP according to the specified length" , () => {
             assert.equal(10 , String(otp.generateOTP(10)).length)
         })
     })
